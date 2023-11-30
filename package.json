@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "12.6.0",
+    "got": "14.0.0",
     "@types/node":"20.2.5"
   }
 }
